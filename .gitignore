@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller / Packaging artifacts
+dist/
+build/
+
+# Virtual environments
+venv/
+env/
+.venv/
+ENV/
+
+# Temporary files & logs
+*.log
+*.tmp
+temp/
+
+# OS specific files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# IDE configuration
+.vscode/
+.idea/

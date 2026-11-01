@@ -1,0 +1,17 @@
+# Core Desktop UI
+PySide6-Essentials>=6.5.0
+
+# Speech to Text (Local, CPU, Offline)
+faster-whisper>=1.0.0
+
+# Audio Hardware & Signal Processing
+sounddevice>=0.4.6
+numpy>=1.24.0
+scipy>=1.10.0
+
+# HTTP & REST Client for Local Ollama API
+requests>=2.31.0
+
+# Windows Packaging
+pyinstaller>=6.0.0
+
